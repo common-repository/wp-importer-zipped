@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress-importer-zipped\n"
+"POT-Creation-Date: 2012-10-23 13:46+0100\n"
+"PO-Revision-Date: 2012-10-23 13:53+0100\n"
+"Last-Translator: Bastien HO <bastienho@urbancube.fr>\n"
+"Language-Team: 8457 <bastienho@urbancube.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../wordpress-importer-zipped.php:49
+msgid "File successfully unzipped"
+msgstr "Fichier d&eacute;zipp&eacute; avec succ&egrave;s"
+
+#: ../wordpress-importer-zipped.php:51
+msgid " found"
+msgstr "trouv&eacute;"
+
+#: ../wordpress-importer-zipped.php:58
+msgid "This extension only allows 1 xml file at once"
+msgstr "Cette extension autorise 1 fichier &agrave; la fois"
+
+#: ../wordpress-importer-zipped.php:64
+msgid "Error while unzipping file"
+msgstr "Erreur pendant le d&eacute;zippage du fichier"
+
+#: ../wordpress-importer-zipped.php:69
+msgid "Error while creating temp directory"
+msgstr "Erreur pendant la cr&eacute;ation du r&eacute;pertoire temporaire"
+
+#: ../wordpress-importer-zipped.php:74
+msgid "Error while renaming file"
+msgstr "Erreur pendant le renomage du fichier"
+
+#: ../wordpress-importer-zipped.php:79
+msgid "There was an error when reading this Zip file"
+msgstr "Une erreur est survenue pendant llors de la lecture du fichier zip"
+
+#: ../wordpress-importer-zipped.php:80
+msgid "Please upload a .zip file"
+msgstr "Chargez un fichier .zip s'il vous plait"
+
+#: ../wordpress-importer-zipped.php:87
+msgid ""
+"Howdy! Upload your Zipped WordPress eXtended RSS (WXR) file and we&#8217;ll "
+"import the posts, pages, comments, custom fields, categories, and tags into "
+"this site."
+msgstr ""
+
+#: ../wordpress-importer-zipped.php:88
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Choisissez un fichier WXR (.xml) zipp&eacute; (.zip), et cliquez Envoyer et "
+"importer"
+
+#: ../wordpress-importer-zipped.php:94
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Importer <strong>articles, pages, commentaires, champs personnalis&eacute;s, "
+"cat&eacute;gories et mots clefs</strong> deouis un fichier d'export Wordpress"
